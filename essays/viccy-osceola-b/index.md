@@ -17,7 +17,7 @@ course: "US Immigration History, Fall 2026"
 kicker: "Place to Place"
 
 # One sentence that appears on the home page card and under the title
-summary: "One sentence that tells readers what your family's migration story is about."
+summary: "The experience of going from one city to another, and eventually to the capital."
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
