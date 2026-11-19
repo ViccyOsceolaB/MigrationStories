@@ -45,7 +45,7 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
+Family is a core part within Madeline’s migration story. In the overall discussion of her life, she speaks about her venture from city to city, between two counties, and two reservations. However, my mother had never lived beyond South Florida. As it is for most Indigenous peoples, it was almost unimaginable to live anywhere else, out from the reservation, out of your home that we hold strong connections too. Since our people have migrated further south after the Seminole war(s) and settled into South Florida, it is now where many of us currently reside. This is where my mother’s family is and its where her history is as a Seminole and as a person of Miccosukee descent. 
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
