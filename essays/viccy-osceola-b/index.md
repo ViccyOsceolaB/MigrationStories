@@ -7,7 +7,7 @@
 layout: essay
 
 # Title of your project
-title: Moving Across Florida
+title: The Move Across Florida
 
 # Your name and course (shown under the title)
 student: Victoria Osceola Benard
