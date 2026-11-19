@@ -45,7 +45,7 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-Family is a core part within Madeline’s migration story. In the overall discussion of her life, she speaks about her venture from city to city, between two counties, and two reservations. However, my mother had never lived beyond South Florida. As it is for most Indigenous peoples, it was almost unimaginable to live anywhere else, out from the reservation, out of your home that we hold strong connections too. Since our people have migrated further south after the Seminole war(s) and settled into South Florida, it is now where many of us currently reside. This is where my mother’s family is and its where her history is as a Seminole and as a person of Miccosukee descent. 
+Madeline Osceola, my mother, had migrated across the state of Florida into the capital, Tallahassee, and resided there over 2 years. A considerably short period of time, but from the perspective of her and our family, this time frame was definitely long enough. As tight-knitted our family is, the distance was unnatural almost. She told me in our interview that: “…they, were always constantly worried, they always call me, probably like every week, to see if I was doing okay or feeling okay … my family were, I guess, we're always close and they're always so use-ta me being so reachable.”  
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
