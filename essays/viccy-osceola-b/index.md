@@ -45,7 +45,7 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-Madeline Osceola, my mother, had migrated across the state of Florida into the capital, Tallahassee, and resided there over 2 years. A considerably short period of time, but from the perspective of her and our family, this time frame was definitely long enough. As tight-knitted our family is, the distance was unnatural almost. She told me in our interview that: “…they, were always constantly worried, they always call me, probably like every week, to see if I was doing okay or feeling okay … my family were, I guess, we're always close and they're always so use-ta me being so reachable.”  
+Madeline Osceola, my mother, had moved across the state of Florida into the capital, Tallahassee. Although only resideing there for short period of time, from the perspective of her and our family, this time was definitely long enough. As tight-knitted our family is, this long distance between each other felt unnatural, uncomfortable almost. My mother experience there was unbeknownst to me, that is, until this interview. She had expressed the difficultly of it all as she was separated from both her immediate and extended family. Yet, she expressed no regret, just slight guilt and incompleteness being a long way from home.
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
