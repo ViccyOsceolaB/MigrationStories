@@ -79,7 +79,7 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
  {% include essay/figure.html
   image="images/Basket-photo.png"
   alt="Placeholder for a photograph of an important object or place"
-  caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
+  caption="Traditonal Seminole baskets my mother made in her pass time, which helped her stay connected to her culture and income."
 %}
 
  This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
