@@ -66,7 +66,7 @@ This section draws upon secondary sources and class materials to explain how the
 
 {% include essay/audio.html
   file="audio/Audio-clip-interview.wav"
-  caption="10-25 words: Madeline Osceola speaking of her familys concern for her move. Interviewed by Viccy Osceola B., in ABQ and FL over Zoom, on October 24, 2026"."
+  caption="10-25 words: "Madeline Osceola speaking of her familys concern for her move. Interviewed by Viccy Osceola B., in ABQ and FL over Zoom, on October 24, 2026."
 %}
 
 Use a sentence or two to introduce the clip and explain why you chose it.
