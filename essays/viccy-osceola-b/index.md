@@ -21,9 +21,9 @@ summary: "The experience of going from one city to another, and eventually to th
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
-lead-image: images/Family-photo.jpeg
+lead-image: images/Old_Photo.jpeg
 lead-image-alt: "Short description of the image for screen readers"
-lead-image-caption: "Family photo."
+lead-image-caption: "Photo of Madeline with her cousins and old friends."
 
 # To hide an unfinished essay from the home page, remove the # in front of the next line
 # draft: true
