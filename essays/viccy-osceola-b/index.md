@@ -87,7 +87,7 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
 ## Subheader 4: 4-8 words Identity and Place in Society
 
 {% include essay/figure.html
-  image="/essays/template/images/Parade-photo.jpeg"
+  image="/essays/template/images/Parade.jpeg"
   alt="Placeholder for an archival photograph"
   caption="Sample placeholder. Describe the archival image, how it relates to other migration stories, and cite its source."
 %}
